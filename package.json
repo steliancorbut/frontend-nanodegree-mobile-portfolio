@@ -3,10 +3,6 @@
   "title": "startgulp",
   "version": "3.3.7+1",
   "author": "startgulp",
-  "license": {
-    "type": "MIT",
-    "url": ""
-  },
   "devDependencies": {
     "browser-sync": "^2.13.0",
     "gulp": "^3.9.1",
